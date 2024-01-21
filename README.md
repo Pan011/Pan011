@@ -16,3 +16,27 @@
 <h1 align="center">
      Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+---
+
+### About Me :
+- 🔭 I’m currently working on a Devops Project
+- 🌱 I’m currently learning CI/CD and AWS
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+---
+
+<!--
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=emreduman3146&show_icons=true&theme=gradient) radical
+-->
+###  My Stats :
+
+![Yusuf 's GitHub stats](https://github-readme-stats-r5-3600.vercel.app/api?username=Pan011&include_all_commits=true&count_private=true&show_icons=true&theme=radical&border_radius=50)
+
+
+---
