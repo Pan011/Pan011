@@ -22,13 +22,13 @@
 ### About Me :
 - 🔭 I’m currently working on a Devops Project
 - 🌱 I’m currently learning CI/CD and AWS
-- 👯 I’m looking to collaborate on ...
+<!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 ---
 
 <!--
@@ -36,7 +36,7 @@
 -->
 ###  My Stats :
 
-![Yusuf 's GitHub stats](https://github-readme-stats-r5-3600.vercel.app/api?username=Pan011&include_all_commits=true&count_private=true&show_icons=true&theme=radical&border_radius=50)
+![Yusuf 's GitHub stats](https://github-readme-stats-r5-3600.vercel.app/api?username=Pan011&include_all_commits=true&count_private=true&show_icons=true&theme=dark&border_radius=50)
 
 
 ---
